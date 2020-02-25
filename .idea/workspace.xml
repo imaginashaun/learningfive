@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="669520ac-3f7c-46bb-82b0-df3ca424c47a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/code16/sharp/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/code16/sharp/config/config.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,17 +156,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582661754532</updated>
-      <workItem from="1582661756682" duration="354000" />
+      <workItem from="1582661756682" duration="516000" />
     </task>
+    <task id="LOCAL-00001" summary="Added config.php">
+      <created>1582662460196</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582662460196</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added config.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added config.php" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1501" y="322" key="CommitChangelistDialog2" timestamp="1582662428660">
+    <state x="1501" y="322" key="CommitChangelistDialog2" timestamp="1582662460068">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1501" y="322" key="CommitChangelistDialog2/0.0.2560.1440@0.0.2560.1440" timestamp="1582662428660" />
+    <state x="1501" y="322" key="CommitChangelistDialog2/0.0.2560.1440@0.0.2560.1440" timestamp="1582662460068" />
+    <state x="1525" y="460" key="Vcs.Push.Dialog.v2" timestamp="1582662461974">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1525" y="460" key="Vcs.Push.Dialog.v2/0.0.2560.1440@0.0.2560.1440" timestamp="1582662461974" />
   </component>
 </project>

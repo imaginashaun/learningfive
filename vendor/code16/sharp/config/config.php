@@ -3,13 +3,13 @@
 return [
 
     // Required. The name of your app, as it will be displayed in Sharp.
-    "name" => "Sharp",
+    "name" => "Learning Five",
 
     // Optional. You can here customize the URL segment in which Sharp will live. Default in "sharp".
-    "custom_url_segment" => "sharp",
+    "custom_url_segment" => "admin",
 
     // Optional. You can prevent Sharp version to be displayed in the page title. Default is true.
-    "display_sharp_version_in_title" => true,
+    "display_sharp_version_in_title" => false,
 
     // Required. Your entities list; each one must define a "list",
     // and can define "form", "validator", "policy" and "authorizations".
